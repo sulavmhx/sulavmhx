@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Sulav Man Hada]
+# 👋 Hi there, I'm Sulav Man Hada
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />
@@ -11,7 +11,7 @@ I am a passionate student developer currently learning **Web Development** at **
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Anything! I'm happy to help**
-- ⚡ Fun fact: **I love debugging until midnight!**e
+- ⚡ Fun fact: **I love debugging until midnight!**
 - 👨‍🏫 Mentored by: [Saroj Adhikari](https://github.com/adhikarisaroj795)
 
 ---

@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [SUlav Man Hada]
+# 👋 Hi there, I'm [Sulav Man Hada]
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />

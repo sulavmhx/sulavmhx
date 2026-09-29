@@ -1,53 +1,60 @@
-# 👋 Hi there, I'm Sulav Man Hada
+# Hi, I'm Sulav Man Hada 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f2937&height=180&section=header&text=Full%20Stack%20Aspirant&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Header Banner" />
 </p>
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-I am a passionate student developer currently learning **Web Development** at **KIST College**. I love turning ideas into reality through code.
+I am a **Bachelor in Information Technology (BIT)** student at **KIST College**, passionate about software development, systems logic, and web development.
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Anything! I'm happy to help**
-- ⚡ Fun fact: **I love debugging until midnight!**
-- 👨‍🏫 Mentored by: [Saroj Adhikari](https://github.com/adhikarisaroj795)
+- 🌐 **Portfolio**: [sulavmanhada.com.np](https://sulavmanhada.com.np/)
+- 🛠️ **Tech Focus**: HTML5, CSS3, JavaScript, C/C++, Git
+- 🤝 **Open to**: Open-source collaboration & web development projects
+- 🎓 **Mentors**: Guided by [Saroj Adhikari](https://github.com/adhikarisaroj795)
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack
 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulavmhx&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulavmhx&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="Sulav's GitHub Streak" width="85%" />
 </p>
 
 ---
 
-## 📫 How to reach me
+### 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:sulavhada01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+<p align="left">
+  <a href="https://sulavmanhada.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sulavmanhada.com.np-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:sulavhada01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sulavhada01%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/zyrox_0x" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40zyrox__0x-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-**Crafted with ❤️ at KIST College**
+<p align="center">
+  <i>Studying BIT at <b>KIST College</b></i>
+</p>
